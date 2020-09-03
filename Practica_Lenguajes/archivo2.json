@@ -1,0 +1,40 @@
+[
+    
+        { 
+            "nombre" :"registro 4 ",
+            "activo" : "true",
+            "edad": 45,
+            "promedio": 10.87
+    
+    
+    
+        },
+    
+        { 
+            "nombre" :"registro 5 ",
+            "activo" : "false",
+            "edad": 30,
+            "promedio": 38.7
+    
+    
+    
+        },
+        { 
+            "nombre" :"registro 6 ",
+            "activo" : "true",
+            "edad": 35,
+            "promedio": 56.45
+    
+    
+    
+        }
+       
+    
+    
+    
+    
+    
+
+
+
+]
